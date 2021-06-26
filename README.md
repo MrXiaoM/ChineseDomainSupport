@@ -1,6 +1,10 @@
 # ChineseDomainSupport
 一款由 Minecraft Forge &amp; Mixin 驱动的多人游戏中文域名支持客户端 Mod
 
+> 作者本人在mcbbs的账号: bilibili_Xiao_M  
+> 再多兼容几个版本就会发帖，请不要在我之前发帖
+
+
 本 Mod 允许你在多人游戏中可连接中文域名的服务器  
 (别问我为什么一个版本一个 gradlew.bat，因为我不会玩 Gradle)  
 
