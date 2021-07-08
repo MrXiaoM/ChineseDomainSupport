@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chinesedomainsupport",
+  "name": "CDS Mod",
+  "description": "",
+  "version": "1.0",
+  "mcversion": "1.12,1.12.1,1.12.2",
+  "url": "https://github.com/MrXiaoM",
+  "updateUrl": "",
+  "authorList": ["MrXiaoM"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
