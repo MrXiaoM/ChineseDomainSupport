@@ -1,0 +1,11 @@
+{
+    "required": true,
+    "minVersion": "0.8.2",
+    "package": "top.mrxiaom.chinesedomainsupport.mixin",
+    "refmap": "mixins.cds.refmap.json",
+    "target": "@env(DEFAULT)",
+    "compatibilityLevel": "JAVA_8",
+    "mixins": [
+        "MixinServerAddress"
+    ]
+}
